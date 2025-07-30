@@ -1,3 +1,6 @@
+// TODO: Integrate intelligent task management (AI prioritization, time blocking)
+// TODO: Add predictive analytics and productivity insights
+// TODO: Implement personalization engine for user preferences
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";

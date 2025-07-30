@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# Smart Calendar App
 
-## Project info
+## Executive Summary
+The Smart Calendar App is an AI-powered scheduling and productivity platform that revolutionizes how users manage their time, tasks, and commitments. By integrating advanced artificial intelligence capabilities, the app provides intelligent scheduling suggestions, automated task management, and predictive insights to optimize user productivity.
 
-**URL**: https://lovable.dev/projects/c7eba33c-fd02-4eaf-8dbf-c0d09ebd52d6
+## Vision & Mission
+**Vision:** To create the world's most intelligent calendar application that anticipates user needs and seamlessly manages their time.
 
-## How can I edit this code?
+**Mission:** Empower users to achieve maximum productivity through AI-driven scheduling optimization, intelligent automation, and personalized time management insights.
 
-There are several ways of editing your application.
+## Core Objectives
+- Develop an intuitive calendar interface with advanced AI integration
+- Implement intelligent scheduling and conflict resolution
+- Provide personalized productivity insights and recommendations
+- Enable seamless integration with existing productivity tools and platforms
+- Deliver a cross-platform solution (mobile, desktop, web)
 
-**Use Lovable**
+## Core Features (Phased)
+- AI-Powered Scheduling (NLP, conflict resolution, travel time, optimal suggestions)
+- Intelligent Task Management (prioritization, time blocking, reminders, goal tracking)
+- Predictive Analytics & Insights (productivity patterns, burnout prevention, meeting effectiveness)
+- Natural Language Processing (voice, email, smart search, transcription)
+- Collaborative Intelligence (team scheduling, resource management, delegation, project timelines)
+- Integration Ecosystem (email, productivity, project management, CRM, travel)
+- Personalization Engine (learning, workflows, habits, preferences)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c7eba33c-fd02-4eaf-8dbf-c0d09ebd52d6) and start prompting.
+## Technical Architecture (Summary)
+- **Frontend:** React.js (web), React Native/Flutter (mobile), Electron (desktop)
+- **Backend:** Node.js/Express or Python/FastAPI, PostgreSQL, MongoDB
+- **AI/ML:** OpenAI GPT, Google Cloud NLP, TensorFlow, PyTorch
+- **Cloud:** AWS/GCP/Azure, Docker, Kubernetes, CDN, monitoring
 
-Changes made via Lovable will be committed automatically to this repo.
+## Roadmap
+See [ROADMAP.md](./ROADMAP.md) for detailed phases and milestones.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c7eba33c-fd02-4eaf-8dbf-c0d09ebd52d6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+For more details, see [VISION.md](./VISION.md).

@@ -1,3 +1,6 @@
+// TODO: Integrate AI-powered scheduling assistant (NLP event creation)
+// TODO: Implement conflict detection and resolution logic
+// TODO: Add travel time integration and optimal time suggestions
 import { useState } from "react";
 import { ChevronLeft, ChevronRight, Bot, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
